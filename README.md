@@ -29,7 +29,7 @@ I ([ashuray](https://github.com/ashuray)) have tried my best to sort all those p
 | **ID** | **PROBLEM STATEMENT**                                    |  **PROBLEM LINK**             | **SOLUTIONS**    |
 |--------|----------------------------------------------------------|-------------------------------|------------------|
 | 1      | Missing number in array                                  | [Leetcode](https://leetcode.com/problems/missing-number/) ,  [GFG](https://practice.geeksforgeeks.org/problems/missing-number-in-array/0)           |  [Solution](./array/01-missing-number-in-array.go)
-| 2      | Subarray with given sum                                  | [GFG](https://practice.geeksforgeeks.org/problems/subarray-with-given-sum/0)           |
+| 2      | Subarray with given sum                                  | [GFG](https://practice.geeksforgeeks.org/problems/subarray-with-given-sum/0)           | [Solution](./array/02-subarray-with-given-sum.go)
 | 3      | 2 Sum                                                    | [LeetCode](https://leetcode.com/problems/two-sum/) , [InterviewBit](https://www.interviewbit.com/problems/2-sum/), [GFG](https://practice.geeksforgeeks.org/problems/key-pair/0) ,         |
 | 4      | Majority Element                                         | [LeetCode](https://leetcode.com/problems/majority-element/)  , [InterviewBit](https://www.interviewbit.com/problems/majority-element/) , [GFG](https://practice.geeksforgeeks.org/problems/majority-element/0)      |
 | 5      | Max Consecutive Ones                                     | [LeetCode](https://leetcode.com/problems/max-consecutive-ones/) , [InterviewBit](https://www.interviewbit.com/problems/max-continuous-series-of-1s/)     |
