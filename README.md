@@ -1,6 +1,13 @@
 # Solutions of InterviewRoom
 This is a repo for all the solutions of [ashuray's](https://github.com/ashuray) github repository [InterviewRoom](https://github.com/ashuray/InterviewRoom). The solutions are taken from all over the internet, and those are among the best complexity solutions by top coders from competitive programming field.
 
+> ### Code Structure
+> - **Solution** : As many Competitive Programming platforms requires a function/method which returns some data, the codes in this repo also follow that same structure. Check `// SOLUTION` comments in every program, underneath which you will find the function/method for solving the given problem.
+> - **Input** : As most Competitive Programming platforms requires a fuction which takes some input, not much of thought is given in taking input from the user/console while writing these programs. Check `// INPUT :` comments in every program, underneath which you will find the input data. You are free to implement any sort of console input strategies.
+> - **Output** : The output of the given problem varies from question to question. The Output in these programs are written exactly same as in accordance to the given problem. Check `// OUTPUT :` comments in every program, underneath which you will find the output printed to the console. You are free to implement any sort of console input strategies as per the questions given.
+
+---
+
 ## Interview Preparation 
 You can crack any Interview if you are preparing yourself in a well organised manner. There are lots of Data Structure and Algorithm problems on internet and it is quite impossible for a person to practice all of them. So it is really important that you practice a list of few problems which are really important and covers almost every concepts. 
 
