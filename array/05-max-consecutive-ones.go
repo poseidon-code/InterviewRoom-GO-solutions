@@ -11,19 +11,19 @@ import (
 
 // SOLUTION
 func max_ones(nums []int) int {
-	var max float64 = 0
+	var max1s float64 = 0
 	var count float64 = 0
 
 	for _, n := range nums {
 		if n == 1 {
 			count++
-			max = math.Max(count, max)
+			max1s = math.Max(count, max1s)
 		} else {
 			count = 0
 		}
 	}
 
-	return int(max)
+	return int(max1s)
 }
 
 func main() {
