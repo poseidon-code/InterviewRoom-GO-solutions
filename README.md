@@ -46,7 +46,7 @@ I ([ashuray](https://github.com/ashuray)) have tried my best to sort all those p
 | 9      | Largest number formed from an array                      | [LeetCode](https://leetcode.com/problems/largest-number/) , [InterviewBit](https://www.interviewbit.com/problems/largest-number/), [GFG](https://practice.geeksforgeeks.org/problems/largest-number-formed-from-an-array/0) | [Solution](./array/09-largest-formed.go)
 | 10     | Next Permutation                                         | [LeetCode](https://leetcode.com/problems/next-permutation/)  , [InterviewBit](https://www.interviewbit.com/problems/next-permutation/)      | [Solution](./array/10-next-permutation.go)
 | 11     | Merge Overlapping Intervals                              | [LeetCode](https://leetcode.com/problems/merge-intervals/) , [InterviewBit](https://www.interviewbit.com/problems/merge-intervals/) | [Solution](./array/11-merge-overlapping-intervals.go)
-| 12     | First Missing Positive                                   | [LeetCode](https://leetcode.com/problems/first-missing-positive/)  , [InterviewBit](https://www.interviewbit.com/problems/first-missing-integer/)      |
+| 12     | First Missing Positive                                   | [LeetCode](https://leetcode.com/problems/first-missing-positive/)  , [InterviewBit](https://www.interviewbit.com/problems/first-missing-integer/)      | [Solution](./array/12-first-missing-positive.go)
 
 ### LinkedList
 | **ID** | **PROBLEM STATEMENT**                                    |  **PROBLEM LINK**             | **SOLUTIONS**    |
