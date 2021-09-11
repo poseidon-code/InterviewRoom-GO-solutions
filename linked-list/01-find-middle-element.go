@@ -33,7 +33,7 @@ func (ll *LinkedList) add(n int) {
 func (ll *LinkedList) print_ll(start *Node) {
 	p := start
 	fmt.Print("[")
-	for p.next != nil {
+	for p != nil {
 		fmt.Print(p.data, " ")
 		p = p.next
 	}
