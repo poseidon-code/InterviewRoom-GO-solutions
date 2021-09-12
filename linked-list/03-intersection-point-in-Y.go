@@ -89,7 +89,7 @@ func main() {
 	// INPUT :
 	var llA, llB LinkedList
 	llA.add(4); llA.add(1); llA.add(8); llA.add(4); llA.add(5);
-    llB.add(5); llB.add(6); llB.add(1); llB.add(8); llB.add(4); llB.add(5);
+	llB.add(5); llB.add(6); llB.add(1); llB.add(8); llB.add(4); llB.add(5);
 	headA := llA.get_head()
 	headB := llB.get_head()
 
