@@ -66,7 +66,7 @@ I ([ashuray](https://github.com/ashuray)) have tried my best to sort all those p
 | 13     | Reorder List L1->L2->...Ln to L1->Ln->L2->Ln-1....       | [LeetCode](https://leetcode.com/problems/reorder-list/) ,          [InterviewBit](https://www.interviewbit.com/problems/reorder-list/)                                             | [Solution](./linked-list/13-reorder-list.go)
 | 14     | Delete N nodes after M nodes of a linked list            | [GFG](https://practice.geeksforgeeks.org/problems/delete-n-nodes-after-m-nodes-of-a-linked-list/1)     | [Solution](./linked-list/14-delete-n-after-m.go)
 | 15     | Merge K sorted list                                      | [LeetCode](https://leetcode.com/problems/merge-k-sorted-lists/) , [InterviewBit](https://www.interviewbit.com/problems/merge-two-sorted-lists/) , [GFG](https://practice.geeksforgeeks.org/problems/merge-k-sorted-linked-lists/1)                       | [Solution](./linked-list/15-merge-k-sorted-lists.go)
-| 16     | Add two numbers represented by a linked list             | [LeetCode](https://leetcode.com/problems/add-two-numbers/) , [InterviewBit](https://www.interviewbit.com/problems/add-two-numbers-as-lists/)                                 |
+| 16     | Add two numbers represented by a linked list             | [LeetCode](https://leetcode.com/problems/add-two-numbers/) , [InterviewBit](https://www.interviewbit.com/problems/add-two-numbers-as-lists/)                                 | [Solution](./linked-list/16-add-2-numbers.go)
 
 ### Stack
 | **ID** | **PROBLEM STATEMENT**                                    |  **PROBLEM LINK**             | **SOLUTIONS**    |
