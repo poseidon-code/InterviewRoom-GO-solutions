@@ -72,7 +72,7 @@ I ([ashuray](https://github.com/ashuray)) have tried my best to sort all those p
 | **ID** | **PROBLEM STATEMENT**                                    |  **PROBLEM LINK**             | **SOLUTIONS**    |
 |--------|----------------------------------------------------------|-------------------------------|------------------|
 | 1      | Valid Parentheses                                        | [LeetCode](https://leetcode.com/problems/valid-parentheses/)                                                 | [Solution](./stack/01-valid-parenthesis.go)
-| 2      | Length of longest valid Parentheses                      | [LeetCode](https://leetcode.com/problems/longest-valid-parentheses/)                                         |
+| 2      | Length of longest valid Parentheses                      | [LeetCode](https://leetcode.com/problems/longest-valid-parentheses/)                                         | [Solution](./stack/02-longest-valid-parentheses.go)
 | 3      | Next Greater Element                                     | [GFG](https://practice.geeksforgeeks.org/problems/next-larger-element/0) , [LeetCode](https://leetcode.com/problems/next-greater-element-ii/)                                           |
 | 4      | Nearest Smaller Element                                  | [InterviewBit](https://www.interviewbit.com/problems/nearest-smaller-element/)                                   |
 | 5      | Trapping Rain Water                                      | [LeetCode](https://leetcode.com/problems/trapping-rain-water/) ,                 [InterviewBit](https://www.interviewbit.com/problems/rain-water-trapped/)                                        |
