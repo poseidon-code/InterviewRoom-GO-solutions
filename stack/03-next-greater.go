@@ -4,9 +4,7 @@
 
 package main
 
-import (
-	"fmt"
-)
+import "fmt"
 
 // SOLUTION
 func next_greater(nums []int) []int {
