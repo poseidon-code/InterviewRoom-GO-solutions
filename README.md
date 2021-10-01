@@ -77,7 +77,7 @@ I ([ashuray](https://github.com/ashuray)) have tried my best to sort all those p
 | 4      | Nearest Smaller Element                                  | [InterviewBit](https://www.interviewbit.com/problems/nearest-smaller-element/)                                   | [Solution](./stack/04-nearest-smaller.go)
 | 5      | Trapping Rain Water                                      | [LeetCode](https://leetcode.com/problems/trapping-rain-water/) ,                 [InterviewBit](https://www.interviewbit.com/problems/rain-water-trapped/)                                        | [Solution](./stack/05-trapping-rain-water.go)
 | 6      | Largest Rectangle in a Histogram                         | [LeetCode](https://leetcode.com/problems/largest-rectangle-in-histogram/) ,     [InterviewBit](https://www.interviewbit.com/problems/largest-rectangle-in-histogram/)                            | [Solution](./stack/06-histogram-rectangle.go)
-| 7      | Min Stack                                                | [LeetCode](https://leetcode.com/problems/min-stack/) ,                           [InterviewBit](https://www.interviewbit.com/problems/min-stack/)                                                 |
+| 7      | Min Stack                                                | [LeetCode](https://leetcode.com/problems/min-stack/) ,                           [InterviewBit](https://www.interviewbit.com/problems/min-stack/)                                                 | [Solution](./stack/07-min-stack.go)
 
 ### Queue
 | **ID** | **PROBLEM STATEMENT**                                    | **PROBLEM LINK**              | **SOLUTIONS**    |
