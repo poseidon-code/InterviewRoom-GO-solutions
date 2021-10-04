@@ -84,7 +84,7 @@ I ([ashuray](https://github.com/ashuray)) have tried my best to sort all those p
 |--------|----------------------------------------------------------|-------------------------------|------------------|
 | 1      | Generate binary numbers from 1 to n                      | [GFG](https://www.geeksforgeeks.org/interesting-method-generate-binary-numbers-1-n/)                     | [Solution](./queue/01-generate-binary.go)
 | 2      | Minimum time required to rot all Oranges                 | [GFG](https://practice.geeksforgeeks.org/problems/rotten-oranges/0) , [LeetCode](https://leetcode.com/problems/rotting-oranges/)                                     | [Solution](./queue/02-time-to-rot.go)
-| 3      | First non repeating character in a stream                | [GFG](https://practice.geeksforgeeks.org/problems/first-non-repeating-character-in-a-stream/0)           |
+| 3      | First non repeating character in a stream                | [GFG](https://practice.geeksforgeeks.org/problems/first-non-repeating-character-in-a-stream/0)           | [Solution](./queue/03-non-repeating-character.go)
 | 4      | Circular tour                                            | [GFG](https://practice.geeksforgeeks.org/problems/circular-tour/1) ,      [LeetCode](https://leetcode.com/problems/gas-station/)                                                        |
 | 5      | Sliding Window Maximum                                   | [LeetCode](https://leetcode.com/problems/sliding-window-maximum/) , [InterviewBit](https://www.interviewbit.com/problems/sliding-window-maximum/)                                     |
 
