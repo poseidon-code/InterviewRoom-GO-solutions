@@ -86,7 +86,7 @@ I ([ashuray](https://github.com/ashuray)) have tried my best to sort all those p
 | 2      | Minimum time required to rot all Oranges                 | [GFG](https://practice.geeksforgeeks.org/problems/rotten-oranges/0) , [LeetCode](https://leetcode.com/problems/rotting-oranges/)                                     | [Solution](./queue/02-time-to-rot.go)
 | 3      | First non repeating character in a stream                | [GFG](https://practice.geeksforgeeks.org/problems/first-non-repeating-character-in-a-stream/0)           | [Solution](./queue/03-non-repeating-character.go)
 | 4      | Circular tour                                            | [GFG](https://practice.geeksforgeeks.org/problems/circular-tour/1) ,      [LeetCode](https://leetcode.com/problems/gas-station/)                                                        | [Solution](./queue/04-circular-tour.go)
-| 5      | Sliding Window Maximum                                   | [LeetCode](https://leetcode.com/problems/sliding-window-maximum/) , [InterviewBit](https://www.interviewbit.com/problems/sliding-window-maximum/)                                     |
+| 5      | Sliding Window Maximum                                   | [LeetCode](https://leetcode.com/problems/sliding-window-maximum/) , [InterviewBit](https://www.interviewbit.com/problems/sliding-window-maximum/)                                     | [Solution](./queue/05-sliding-window.go)
 
 ### Binary Tree
 | **ID** | **PROBLEM STATEMENT**                                    | **PROBLEM LINK**              | **SOLUTIONS**    |
