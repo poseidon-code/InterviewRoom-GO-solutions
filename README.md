@@ -92,7 +92,7 @@ I ([ashuray](https://github.com/ashuray)) have tried my best to sort all those p
 | **ID** | **PROBLEM STATEMENT**                                    | **PROBLEM LINK**              | **SOLUTIONS**    |
 |--------|----------------------------------------------------------|-------------------------------|------------------|
 | 1      | Determine Height of a binary tree                        | [LeetCode](https://leetcode.com/problems/maximum-depth-of-binary-tree/) , [InterviewBit](https://www.interviewbit.com/problems/max-depth-of-binary-tree/)                                   | [Solution](./binary-tree/01-binary-tree-height.go)
-| 2      | Inorder Traversal                                        | [InterviewBit](https://www.interviewbit.com/problems/inorder-traversal/)                                          |
+| 2      | Inorder Traversal                                        | [InterviewBit](https://www.interviewbit.com/problems/inorder-traversal/)                                          | [Solution](./binary-tree/02-inorder-traversal.go)
 | 3      | Preorder Traversal                                       | [InterviewBit](https://www.interviewbit.com/problems/preorder-traversal/)                                         |
 | 4      | Postorder Traversal                                      | [InterviewBit](https://www.interviewbit.com/problems/postorder-traversal/)                                        |
 | 5      | Level Order Traversal                                    | [LeetCode](https://leetcode.com/problems/binary-tree-level-order-traversal/)                                  |
