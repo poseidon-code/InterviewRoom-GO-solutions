@@ -115,7 +115,7 @@ I ([ashuray](https://github.com/ashuray)) have tried my best to sort all those p
 | 22     | Maximum path sum from leaf to leaf                       | [CodingNinjas](https://www.codingninjas.com/codestudio/problems/maximum-path-sum-between-two-leaves_794950)                                    | [Solution](./binary-tree/22-leaf-path-sum.go)
 | 23     | Maximum path sum from any node to any node               | [LeetCode](https://leetcode.com/problems/binary-tree-maximum-path-sum/)                                       | [Solution](./binary-tree/23-node-path-sum.go)
 | 24     | Least Common Ancestor                                    | [LeetCode](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)                            | [Solution](./binary-tree/24-lca.go)
-| 25     | Find the distance between two nodes of a Binary Tree     | [GFG](https://practice.geeksforgeeks.org/problems/min-distance-between-two-given-nodes-of-a-binary-tree/1)                                                                                                                          |
+| 25     | Find the distance between two nodes of a Binary Tree     | [GFG](https://practice.geeksforgeeks.org/problems/min-distance-between-two-given-nodes-of-a-binary-tree/1)                                                                                                                          | [Solution](./binary-tree/25-node-distance.go)
 
 ### Binary Search Tree
 | **ID** | **PROBLEM STATEMENT**                                    | **PROBLEM LINK**              | **SOLUTIONS**    |
