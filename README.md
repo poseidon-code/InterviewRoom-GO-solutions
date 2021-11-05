@@ -121,7 +121,7 @@ I ([ashuray](https://github.com/ashuray)) have tried my best to sort all those p
 | **ID** | **PROBLEM STATEMENT**                                    | **PROBLEM LINK**              | **SOLUTIONS**    |
 |--------|----------------------------------------------------------|-------------------------------|------------------|
 | 1      | Insert a Node in BST                                     | [LeetCode](https://leetcode.com/problems/insert-into-a-binary-search-tree/)                                    | [Solution](./binary-search-tree/01-insert.go)
-| 2      | Delete a Node from BST                                   | [LeetCode](https://leetcode.com/problems/delete-node-in-a-bst/)                                                |
+| 2      | Delete a Node from BST                                   | [LeetCode](https://leetcode.com/problems/delete-node-in-a-bst/)                                                | [Solution](./binary-search-tree/02-delete.go)
 | 3      | Lowest common ancestor in BST                            | [LeetCode](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)                      |
 | 4      | Inorder Successor in BST                                 | [LeetCode](https://practice.geeksforgeeks.org/problems/inorder-successor-in-bst/1)                             |
 | 5      | Kth Smallest node in BST                                 | [LeetCode](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)                                       |
