@@ -130,7 +130,7 @@ I ([ashuray](https://github.com/ashuray)) have tried my best to sort all those p
 | **ID** | **PROBLEM STATEMENT**                                    | **PROBLEM LINK**              | **SOLUTIONS**    |
 |--------|----------------------------------------------------------|-------------------------------|------------------|
 | 1      | Median in a stream of integers                           | [GFG](https://practice.geeksforgeeks.org/problems/find-median-in-a-stream/0)                             | [Solution](./heap-priority-queue/01-median.go)
-| 2      | Top K Frequent Elements in an Array                      | [LeetCode](https://leetcode.com/problems/top-k-frequent-elements/)                                            |
+| 2      | Top K Frequent Elements in an Array                      | [LeetCode](https://leetcode.com/problems/top-k-frequent-elements/)                                            | [Solution](./heap-priority-queue/02-k-frequent.go)
 | 3      | Kth Largest Element in a Stream                          | [LeetCode](https://leetcode.com/problems/kth-largest-element-in-a-stream/)                                    |
 | 4      | Sort a nearly sorted (or K sorted) array                 | [GFG](https://www.geeksforgeeks.org/nearly-sorted-algorithm/)                                            |
 | 5      | Kth Smallest Element in a Sorted Matrix                  | [LeetCode](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)                           |
