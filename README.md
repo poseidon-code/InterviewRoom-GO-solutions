@@ -133,7 +133,7 @@ I ([ashuray](https://github.com/ashuray)) have tried my best to sort all those p
 | 2      | Top K Frequent Elements in an Array                      | [LeetCode](https://leetcode.com/problems/top-k-frequent-elements/)                                            | [Solution](./heap-priority-queue/02-k-frequent.go)
 | 3      | Kth Largest Element in a Stream                          | [LeetCode](https://leetcode.com/problems/kth-largest-element-in-a-stream/)                                    | [Solution](./heap-priority-queue/03-k-largest.go)
 | 4      | Sort a nearly sorted (or K sorted) array                 | [GFG](https://www.geeksforgeeks.org/nearly-sorted-algorithm/)                                            | [Solution](./heap-priority-queue/04-k-sorted.go)
-| 5      | Kth Smallest Element in a Sorted Matrix                  | [LeetCode](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)                           |
+| 5      | Kth Smallest Element in a Sorted Matrix                  | [LeetCode](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)                           | [Solution](./heap-priority-queue/05-k-smallest.go)
 
 
 
