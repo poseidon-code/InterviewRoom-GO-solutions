@@ -142,7 +142,7 @@ I ([ashuray](https://github.com/ashuray)) have tried my best to sort all those p
 ### Binary Search
 | **ID** | **PROBLEM STATEMENT**                                    |  **PROBLEM LINK**             | **SOLUTIONS**    |
 |--------|----------------------------------------------------------|-------------------------------|------------------|
-| 1      | Find First and Last Position of Element in Sorted Array  | [LeetCode](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) |
+| 1      | Find First and Last Position of Element in Sorted Array  | [LeetCode](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [Solution](./binary-search/01-first-last.go)
 | 2      | Search in Rotated Sorted Array                           | [LeetCode](https://leetcode.com/problems/search-in-rotated-sorted-array/) , [InterviewBit](https://www.interviewbit.com/problems/rotated-sorted-array-search/) , [GFG](https://practice.geeksforgeeks.org/problems/search-in-a-rotated-array/0)  |
 | 3      | Find Minimum in Rotated Sorted Array                     | [LeetCode](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)  |
 | 4      | Pow(x,n)                                                 | [LeetCode](https://leetcode.com/problems/powx-n/) , [InterviewBit](https://www.interviewbit.com/problems/implement-power-function/) |
