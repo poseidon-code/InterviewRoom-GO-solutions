@@ -144,7 +144,7 @@ I ([ashuray](https://github.com/ashuray)) have tried my best to sort all those p
 |--------|----------------------------------------------------------|-------------------------------|------------------|
 | 1      | Find First and Last Position of Element in Sorted Array  | [LeetCode](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [Solution](./binary-search/01-first-last.go)
 | 2      | Search in Rotated Sorted Array                           | [LeetCode](https://leetcode.com/problems/search-in-rotated-sorted-array/) , [InterviewBit](https://www.interviewbit.com/problems/rotated-sorted-array-search/) , [GFG](https://practice.geeksforgeeks.org/problems/search-in-a-rotated-array/0)  | [Solution](./binary-search/02-rotated-sort.go)
-| 3      | Find Minimum in Rotated Sorted Array                     | [LeetCode](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)  |
+| 3      | Find Minimum in Rotated Sorted Array                     | [LeetCode](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)  | [Solution](./binary-search/03-minimum.go)
 | 4      | Pow(x,n)                                                 | [LeetCode](https://leetcode.com/problems/powx-n/) , [InterviewBit](https://www.interviewbit.com/problems/implement-power-function/) |
 | 5      | Sqrt(n)                                                  | [LeetCode](https://leetcode.com/problems/sqrtx/) , [InterviewBit](https://www.interviewbit.com/problems/square-root-of-integer/)   |
 | 6      | Matrix Search                                            | [LeetCode](https://leetcode.com/problems/search-a-2d-matrix/) , [InterviewBit](https://www.interviewbit.com/problems/matrix-search/)   |
