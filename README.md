@@ -147,7 +147,7 @@ I ([ashuray](https://github.com/ashuray)) have tried my best to sort all those p
 | 3      | Find Minimum in Rotated Sorted Array                     | [LeetCode](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)  | [Solution](./binary-search/03-minimum.go)
 | 4      | Pow(x,n)                                                 | [LeetCode](https://leetcode.com/problems/powx-n/) , [InterviewBit](https://www.interviewbit.com/problems/implement-power-function/) | [Solution](./binary-search/04-power.go)
 | 5      | Sqrt(n)                                                  | [LeetCode](https://leetcode.com/problems/sqrtx/) , [InterviewBit](https://www.interviewbit.com/problems/square-root-of-integer/)   |
-| 6      | Matrix Search                                            | [LeetCode](https://leetcode.com/problems/search-a-2d-matrix/) , [InterviewBit](https://www.interviewbit.com/problems/matrix-search/)   |
+| 6      | Matrix Search                                            | [LeetCode](https://leetcode.com/problems/search-a-2d-matrix/) , [InterviewBit](https://www.interviewbit.com/problems/matrix-search/)   | [Solution](./binary-search/06-matrix-search.go)
 | 6      | Median of Two Sorted Arrays                              | [LeetCode](https://leetcode.com/problems/median-of-two-sorted-arrays/) , [InterviewBit](https://www.interviewbit.com/problems/median-of-array/)   |
 
 
