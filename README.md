@@ -155,7 +155,7 @@ I ([ashuray](https://github.com/ashuray)) have tried my best to sort all those p
 | **ID** | **PROBLEM STATEMENT**                                    | **PROBLEM LINK**                  | **SOLUTIONS**    |
 |--------|----------------------------------------------------------|-----------------------------------|------------------|
 | 1      | Climbing Stairs                                          | [LeetCode](https://leetcode.com/problems/climbing-stairs/)                                                          | [Solution](./dynamic-programming/01-climbing-stairs.go)
-| 2      | Coin Sum Infinite                                        | [InterviewBit](https://www.interviewbit.com/problems/coin-sum-infinite/)                                                |
+| 2      | Coin Sum Infinite                                        | [InterviewBit](https://www.interviewbit.com/problems/coin-sum-infinite/)                                                | [Solution](./dynamic-programming/02-coin-sum.go)
 | 3      | Min Cost Climbing Stairs                                 | [LeetCode](https://leetcode.com/problems/min-cost-climbing-stairs/)                                                 |
 | 4      | Rod Cutting Problem                                      | [GFG](https://www.geeksforgeeks.org/cutting-a-rod-dp-13/)                                                      |
 | 5      | Longest Common Subsequence                               | [LeetCode](https://leetcode.com/problems/delete-operation-for-two-strings/)                                         |
