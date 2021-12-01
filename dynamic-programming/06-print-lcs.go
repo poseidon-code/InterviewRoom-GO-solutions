@@ -55,6 +55,5 @@ func main() {
     B := []int{3,4,1,2,1,3}
 
     // OUTPUT :
-    lcs(A, B)
     fmt.Println(lcs(A, B))
 }
