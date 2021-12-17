@@ -177,7 +177,7 @@ I ([ashuray](https://github.com/ashuray)) have tried my best to sort all those p
 | 21     | Word Break                                               | [LeetCode](https://leetcode.com/problems/word-break/) ,              [InterviewBit](https://www.interviewbit.com/problems/word-break/)                                                        | [Solution](./dynamic-programming/21-word-break.go)
 | 22     | Interleaving String                                      | [LeetCode](https://leetcode.com/problems/interleaving-string/) , [InterviewBit](https://www.interviewbit.com/problems/interleaving-strings/)                                              | [Solution](./dynamic-programming/22-interleaving-string.go)
 | 23     | Matrix Chain Multiplication                              | [LeetCode](https://leetcode.com/problems/burst-balloons/)                                                            | [Solution](./dynamic-programming/23-matrix-chain-multiplication.go)
-| 24     | Palindrome Partitioning                                  | [LeetCode](https://leetcode.com/problems/palindrome-partitioning-ii/)                                                |
+| 24     | Palindrome Partitioning                                  | [LeetCode](https://leetcode.com/problems/palindrome-partitioning-ii/)                                                | [Solution](./dynamic-programming/24-palindrome.go)
 
 ## Graph
 | **ID** | **PROBLEM STATEMENT**                                    | **PROBLEM LINK**                  | **SOLUTIONS**    |
