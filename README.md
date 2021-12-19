@@ -25,6 +25,7 @@ I ([ashuray](https://github.com/ashuray)) have tried my best to sort all those p
 - [Algorithms](#algorithms)
   - [Binary Search](#binary-search)
   - [Dynamic Programming](#dynamic-programming)
+  - [Graph](#graph)
 
 ## Data Structures
  - [ ] Tutorials:
