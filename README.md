@@ -1,6 +1,5 @@
 ![InterviewRoom-GO-solutions](./irs-go.jpg)
 
-# Solutions of InterviewRoom
 This is a repo for all the solutions of [ashuray's](https://github.com/ashuray) github repository [InterviewRoom](https://github.com/ashuray/InterviewRoom). The solutions are taken from all over the internet, and those are among the best complexity solutions by top coders from competitive programming field.
 
 > ### Code Structure
